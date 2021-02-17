@@ -23,7 +23,7 @@ client.on("ready", () => {
 });
 
 client.on("message", async message => {
-  if (message.content.toLowerCase() === prefix + "Pro") {
+  if (message.content.toLowerCase() === prefix + "P") {
     message.channel.startTyping();
     setTimeout(() => {
       message.channel.stopTyping();
