@@ -7,7 +7,7 @@ client.on("ready", () => {
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
   let statuses = [
-    "|𝗔𝗠_𝗨𝗣📌✌|",
+    "|ASTERAY MARG UP📌✌|",
     "|با بتبا ئاو، مەدە لە پردی ناپیاو⛔|",
     "|☀𝗔𝗕𝗢 𝗨𝗣⬆☀|",
     " 💔😥 خۆشبەختی گران بوو ئێمەشە هەژار بووین"
@@ -64,12 +64,12 @@ client.on("message", msg => {
 
 client.on("message", msg => {
   if (msg.content === "reklam") {
-    msg.reply("** farmw dllm https://discord.gg/bnMJzry ❤**");
+    msg.reply("** farmw dllm https://discord.gg/553VkxZcwJ ❤**");
   }
 });
 
 client.on("message", msg => {
-  if (msg.content === "hi") {
+  if (msg.content === "hello") {
     msg.reply("**baxer bey gyana ❤ **");
   }
 });
@@ -81,8 +81,8 @@ client.on("message", msg => {
 });
 
 client.on("message", msg => {
-  if (msg.content === "abo") {
-    msg.reply("**<@652999772122120202> xoy chwabt adatawa ❤**");
+  if (msg.content === "babo") {
+    msg.reply("** xoy chwabt adatawa ❤**");
   }
 });
 
