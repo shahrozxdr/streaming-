@@ -928,15 +928,15 @@ client.on("message", message => {
 
 client.on("message", message => {
   if (message.content === prefix + "help") {
-    var addserver = `https://discord.gg/99KsGZHrsv`;
-    var SUPPORT = `https://discord.gg/99KsGZHrsv`;
+    var addserver = `https://discord.gg/553VkxZcwJ`;
+    var SUPPORT = `https://discord.gg/553VkxZcwJ`;
     var website = `https://black-bot-html.glitch.me/`;
     let embed = new Discord.RichEmbed()
       .setAuthor(message.author.username)
       .setThumbnail(message.author.avatarURL)
       .setFooter("")
       .setImage(
-        "https://cdn.discordapp.com/attachments/796750980469358622/809873763444850698/image0.gif"
+        "https://cdn.discordapp.com/attachments/678029822408261662/811728129499856957/e211b0959475a1e90132a31b5b665b0f.gif"
       )
       .setColor("RANDOM").setDescription(` 
     
@@ -1213,4 +1213,4 @@ client.on("message", message => {
 
 // Events
 
-client.login("NzkyMzIwNjY4NjIzNTY4OTA2.X-cRAw.bNguUXu0W_2-1dNluFEt4YeVi04");
+client.login("NzE2MTQxNjE3NDY3MDk3MTAx.YC2H0Q.BQ9ZN23TMF6a1wOvLLZKiX7q34g");
