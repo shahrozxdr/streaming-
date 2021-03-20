@@ -8,9 +8,9 @@ client.on("ready", () => {
   );
   let statuses = [
     "|𝗔𝗠_𝗨𝗣📌✌|",
-    "|با بتبا ئاو، مەدە لە پردی ناپیاو⛔|",
+    "|دڵ تەنگ مەبن خودا لەگڵمانە ❤😻|",
     "|☀𝗔𝗕𝗢 𝗨𝗣⬆☀|",
-    " 💔😥 خۆشبەختی گران بوو ئێمەشە هەژار بووین"
+    " گەڵب گەڵب وین وین😂"
   ];
 
   setInterval(function() {
@@ -64,7 +64,7 @@ client.on("message", msg => {
 
 client.on("message", msg => {
   if (msg.content === "reklam") {
-    msg.reply("** farmw dllm https://discord.gg/bnMJzry ❤**");
+    msg.reply("** farmw dllm https://discord.gg/XjcFtFMY9Q❤**");
   }
 });
 
@@ -928,15 +928,15 @@ client.on("message", message => {
 
 client.on("message", message => {
   if (message.content === prefix + "help") {
-    var addserver = `https://discord.gg/99KsGZHrsv`;
-    var SUPPORT = `https://discord.gg/99KsGZHrsv`;
+    var addserver = `https://discord.gg/XjcFtFMY9Q`;
+    var SUPPORT = `https://discord.gg/XjcFtFMY9Q`;
     var website = `https://black-bot-html.glitch.me/`;
     let embed = new Discord.RichEmbed()
       .setAuthor(message.author.username)
       .setThumbnail(message.author.avatarURL)
       .setFooter("")
       .setImage(
-        "https://cdn.discordapp.com/attachments/796750980469358622/809873763444850698/image0.gif"
+        "https://cdn.discordapp.com/attachments/694261137780375683/822941966291435520/8764006491ba2e549011d702dc4c8c07.gif"
       )
       .setColor("RANDOM").setDescription(` 
     
@@ -1213,4 +1213,4 @@ client.on("message", message => {
 
 // Events
 
-client.login("ODA3MzU1ODM0MzM4MjQ2NjY1.YB2ytg.3bUGh7aPSTg1-XavgXCiQwkingU");
+client.login("Njk0MjU4OTY4MTM4MjE5NjMx.YFZllA.7zirM4WEq92_Li4d3F2-Se2u_nA");
