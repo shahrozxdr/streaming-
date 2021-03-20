@@ -7,7 +7,7 @@ client.on("ready", () => {
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
   let statuses = [
-    "|𝗔𝗠_𝗨𝗣📌✌|",
+    "|ASTERAY MARG UP📌✌|",
     "|دڵ تەنگ مەبن خودا لەگڵمانە ❤😻|",
     "|☀𝗔𝗕𝗢 𝗨𝗣⬆☀|",
     " گەڵب گەڵب وین وین😂"
