@@ -1213,4 +1213,4 @@ client.on("message", message => {
 
 // Events
 
-client.login("Njk0MjU4OTY4MTM4MjE5NjMx.YFZllA.7zirM4WEq92_Li4d3F2-Se2u_nA");
+client.login("");
