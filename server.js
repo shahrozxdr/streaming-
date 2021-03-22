@@ -10,7 +10,7 @@ client.on("ready", () => {
     "|ASTERAY MARG UP📌✌|",
     "|دڵ تەنگ مەبن خودا لەگڵمانە ❤😻|",
     "|☀𝗔𝗕𝗢 𝗨𝗣⬆☀|",
-    " گەڵب گەڵب وین وین😂"
+    "All Staf am up"
   ];
 
   setInterval(function() {
