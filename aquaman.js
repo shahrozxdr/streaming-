@@ -7,10 +7,10 @@ client.on("ready", () => {
     `Online In Servers : ${client.guilds.size} | Users : ${client.users.size}`
   );
   let statuses = [
-    "|ASTERAY MARG UP📌✌|",
+    "|RAYAL STAFF UP📌✌|",
     "|دڵ تەنگ مەبن خودا لەگڵمانە ❤😻|",
-    "|☀𝗔𝗕𝗢 𝗨𝗣⬆☀|",
-    "All Staf am up"
+    "|☀AQUAMAN⬆☀|",
+    "ALL RAYAL STAFF up"
   ];
 
   setInterval(function() {
@@ -51,7 +51,7 @@ client.on("message", message => {
       );
       break;
 
-    case "<@652999772122120202>":
+    case "<@716787617563148338>":
       message.channel.send("فــەرمـــوو دڵـــی مــن ❤ ");
   }
 });
@@ -81,8 +81,8 @@ client.on("message", msg => {
 });
 
 client.on("message", msg => {
-  if (msg.content === "abo") {
-    msg.reply("**<@652999772122120202> xoy chwabt adatawa ❤**");
+  if (msg.content === "aquaman") {
+    msg.reply("**<@716787617563148338> xoy chwabt adatawa ❤**");
   }
 });
 
@@ -655,7 +655,7 @@ client.on("message", message => {
       )
       .addField(
         " 👑|**OWNER AKAWNT** :  ",
-        `» <@652999772122120202>`,
+        `» <@716787617563148338>`,
         true
       ) // تعديل مهم عدل هذا الرقم لايدي حسابك
       .setImage(
